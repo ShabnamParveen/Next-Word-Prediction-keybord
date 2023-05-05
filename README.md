@@ -1,2 +1,2 @@
-# BlogSystemWithPython
-This is a blog system designed for publishing blogs. This system is designed by using python and its framework Django. HTML,CSS,BootStrap and JavaScritp are used as per requirment.
+# Next Word Prediction system
+It is a deep learning project. In this project I tried to develop a model to predict word(s) that a person likely to type during his/her conversation. It is a very helpful system specially for challenged users as it reduces the number of keystrokes. In this project I employed verious deep learning models which are LSTM, Bi-LSTM, GRU, and after that I tried to develop a hybrid model using these models. This project gives 91% accuracy and the average time taken by the model for predicting words is 0.06 seconds. This system can be personalized for individual users.
